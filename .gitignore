@@ -7,3 +7,4 @@ db/poche.sqlite
 inc/poche/config.inc.php
 inc/3rdparty/htmlpurifier/HTMLPurifier/DefinitionCache/Serializer/
 .vagrant
+TODO

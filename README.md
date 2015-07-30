@@ -1,5 +1,7 @@
 # Wallabag Heroku
 
+:warning: not stable yet
+
 Template for installing and running [Wallabag](https://www.wallabag.org/) on [Heroku](http://www.heroku.com/)
 
 Wallabag version: 1.9.0
